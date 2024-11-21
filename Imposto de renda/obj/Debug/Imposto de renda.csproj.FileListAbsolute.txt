@@ -1,0 +1,8 @@
+C:\Users\aliss\OneDrive\Documentos\SharpDevelop Projects\Imposto de renda\Imposto de renda\bin\Debug\Imposto de renda.exe
+C:\Users\aliss\OneDrive\Documentos\SharpDevelop Projects\Imposto de renda\Imposto de renda\bin\Debug\Imposto de renda.pdb
+C:\Users\aliss\OneDrive\Documentos\SharpDevelop Projects\Imposto de renda\Imposto de renda\obj\Debug\Imposto de renda.csprojResolveAssemblyReference.cache
+C:\Users\aliss\OneDrive\Documentos\SharpDevelop Projects\Imposto de renda\Imposto de renda\obj\Debug\Imposto de renda.csproj.GenerateResource.Cache
+C:\Users\aliss\OneDrive\Documentos\SharpDevelop Projects\Imposto de renda\Imposto de renda\obj\Debug\Imposto de renda.exe
+C:\Users\aliss\OneDrive\Documentos\SharpDevelop Projects\Imposto de renda\Imposto de renda\obj\Debug\Imposto de renda.pdb
+C:\Users\aliss\OneDrive\Documentos\SharpDevelop Projects\Imposto de renda\Imposto de renda\obj\Debug\Imposto_de_renda.pagina2.resources
+C:\Users\aliss\OneDrive\Documentos\SharpDevelop Projects\Imposto de renda\Imposto de renda\obj\Debug\Imposto_de_renda.Mainform.resources
